@@ -1,0 +1,375 @@
+﻿handleId,fieldType,name,description,productImageUrl,collection,sku,ribbon,price,surcharge,visible,discountMode,discountValue,inventory,weight,cost,productOptionName1,productOptionType1,productOptionDescription1,productOptionName2,productOptionType2,productOptionDescription2,productOptionName3,productOptionType3,productOptionDescription3,productOptionName4,productOptionType4,productOptionDescription4,productOptionName5,productOptionType5,productOptionDescription5,productOptionName6,productOptionType6,productOptionDescription6,additionalInfoTitle1,additionalInfoDescription1,additionalInfoTitle2,additionalInfoDescription2,additionalInfoTitle3,additionalInfoDescription3,additionalInfoTitle4,additionalInfoDescription4,additionalInfoTitle5,additionalInfoDescription5,additionalInfoTitle6,additionalInfoDescription6,customTextField1,customTextCharLimit1,customTextMandatory1,customTextField2,customTextCharLimit2,customTextMandatory2,brand
+product_df19c1f7-07d8-a265-42f8-e8dfa824cc6e,Product,Biquíni Cintura Alta Laranja Le Paradis,"<p>Os biquínis da coleção Club Verão foram pensados para tornar seus dias de verão mais alegres e confortáveis. Todas as peças, tanto os tops quanto as calcinhas são forrados por inteiro para garantir maior segurança. Além disso todos os tecidos passaram por rigorosos testes de qualidade.</p>",80a210_af35a6ff67274ad4aa3b3580df47f2a5~mv2.jpg;80a210_96f8fc87a8be4123a441d90d04335606~mv2.jpg;80a210_36d286341d2b4982bd306317ee048628~mv2.jpg;80a210_4af9f6a0be5145bfae43da5157bb367f~mv2.jpg,Biquinis;Mais Populares,BKN03,,149.99,,true,PERCENT,0.0,InStock,0.0,60.0,Cor,COLOR,"#DD7E16:Laranja",Biquíni Sutiã,DROP_DOWN,Extra Pequeno;Pequeno;Médio;Grande;Extra grande,Biquíni Calcinha,DROP_DOWN,Extra Pequeno;Pequeno;Médio;Grande;Extra Grande,,,,,,,,,,Informações do Produto,"<p>Com modelagem moderna, este Biquíni Cintura Alta Laranja Le Paradis proporciona um visual sofisticado.<br>
+<br>
+Disponível do PP ao GG, este modelo possui caimento confortável e anatômico.<br>
+<br>
+Feito em Lycra®, material confortável que adiciona textura sofisticada ao beachwear e te deixa pronta para mergulhar nos dias ao sol com visual diferenciado.<br>
+<br>
+<strong>Referência:</strong> BKN04<br>
+<br>
+<strong>Linha:</strong> Club Verão<br>
+<br>
+<strong>Tecido:</strong> Lycra®<br>
+<br>
+<strong>Composição:</strong> TECIDO - 92% Poliamida; 8% Elastano<br>
+<br>
+FORRO - 75% Poliamida;15% Elastano</p>
+",Tabela de Medidas,"<table>
+	<tbody>
+		<tr>
+			<td>PP</td>
+			<td>P</td>
+			<td>M</td>
+			<td>G</td>
+			<td>GG</td>
+		</tr>
+		<tr>
+			<td>&nbsp;&nbsp; 34 &nbsp; &nbsp;&nbsp;</td>
+			<td>&nbsp;36-38 &nbsp;&nbsp;</td>
+			<td>&nbsp;40-42 &nbsp;&nbsp;</td>
+			<td>&nbsp;42-44 &nbsp;&nbsp;</td>
+			<td>&nbsp; 46-50</td>
+		</tr>
+	</tbody>
+</table>
+",,,,,,,,,,,,,,,
+product_5f079aa8-a4b4-7093-57ed-f5218c5e1747,Product,Maiô Costa Aberta de Amarrar Era Uma Vez,<p>Tecido leve com alta elásticidade toque macio e super confortável. Não da bolinhas nem desbota. Modelagem ampla e personalizada se adapta fácilmente ao corpo.</p>,80a210_16b8932a65704af3831ade391210b2a4~mv2.jpg;80a210_98571dc1bca64d9bb0a4009df393fa9d~mv2.jpg;80a210_d690ca9a7e514b2c9ac16dbe457f1e58~mv2.jpg,Mais Populares;Maiôs,MY1,,149.99,,true,AMOUNT,30.0,InStock,0.0,65.0,Cor,COLOR,"#3358A6:Azul",Tamanho Maiô,DROP_DOWN,Extra Pequeno;Pequeno;Médio;Grande;Extra grande,,,,,,,,,,,,,Informações do Produto,"<p>Com modelagem moderna, este Maiô Costa Aberta de Amarrar proporciona um visual sofisticado.<br>
+<br>
+Disponível do PP ao GG, este modelo possui caimento confortável e anatômico.<br>
+<br>
+Feito em Lycra®, material confortável que adiciona textura sofisticada ao beachwear e te deixa pronta para mergulhar nos dias ao sol com visual diferenciado.<br>
+<br>
+<strong>Referência:</strong> MY01<br>
+<br>
+<strong>Linha:</strong> Club Verão<br>
+<br>
+<strong>Tecido:</strong> Lycra®<br>
+<br>
+<strong>Composição:</strong> TECIDO - 92% Poliamida; 8% Elastano<br>
+<br>
+FORRO - 75% Poliamida;15% Elastano</p>
+",Tabela de Medidas,"<table>
+	<tbody>
+		<tr>
+			<td>PP</td>
+			<td>P</td>
+			<td>M</td>
+			<td>G</td>
+			<td>GG</td>
+		</tr>
+		<tr>
+			<td>&nbsp;&nbsp; 34 &nbsp; &nbsp;&nbsp;</td>
+			<td>&nbsp;36-38 &nbsp;&nbsp;</td>
+			<td>&nbsp;40-42 &nbsp;&nbsp;</td>
+			<td>&nbsp;42-44 &nbsp;&nbsp;</td>
+			<td>&nbsp; 46-50</td>
+		</tr>
+	</tbody>
+</table>
+",,,,,,,,,,,,,,,
+product_e0063bee-8a2f-044d-e2d1-06f03f3c36a6,Product,Biquíni Cintura Alta Terracota Le Paradis,"<p>Os biquínis da coleção Club Verão foram pensados para tornar seus dias de verão mais alegres e confortáveis. Todas as peças, tanto os tops quanto as calcinhas são forrados por inteiro para garantir maior segurança. Além disso todos os tecidos passaram por rigorosos testes de qualidade.</p>",80a210_f0c65bfff2b14c78bb2e02c480b9b46d~mv2.jpg;80a210_2a20024b38164ac9809b7fb451acb409~mv2.jpg;80a210_d35c8c338b5c4d6c808c8331ff5609dd~mv2.jpg;80a210_382d03e93d0645f4a108bda259e18a9c~mv2.jpg,Biquinis;Mais Populares,BKN04,,149.99,,true,AMOUNT,30.0,InStock,0.0,60.0,Cor,COLOR,"#794011:Terracota",Biquíni Sutiã,DROP_DOWN,Extra Pequeno;Pequeno;Médio;Grande;Extra grande,Biquíni Calcinha,DROP_DOWN,Extra Pequeno;Pequeno;Médio;Grande;Extra Grande,,,,,,,,,,Informações do Produto,"<p>Com modelagem moderna, este Biquíni Cintura Alta Terracota proporciona um visual sofisticado.<br>
+<br>
+Disponível do PP ao GG, este modelo possui caimento confortável e anatômico.<br>
+<br>
+Feito em Lycra®, material confortável que adiciona textura sofisticada ao beachwear e te deixa pronta para mergulhar nos dias ao sol com visual diferenciado.<br>
+<br>
+<strong>Referência:</strong> BKN04<br>
+<br>
+<strong>Linha:</strong> Club Verão<br>
+<br>
+<strong>Tecido:</strong> Lycra®<br>
+<br>
+<strong>Composição:</strong> TECIDO - 92% Poliamida; 8% Elastano<br>
+<br>
+FORRO - 75% Poliamida;15% Elastano</p>
+",Tabela de Medidas,"<table>
+	<tbody>
+		<tr>
+			<td>PP</td>
+			<td>P</td>
+			<td>M</td>
+			<td>G</td>
+			<td>GG</td>
+		</tr>
+		<tr>
+			<td>&nbsp;&nbsp; 34 &nbsp; &nbsp;&nbsp;</td>
+			<td>&nbsp;36-38 &nbsp;&nbsp;</td>
+			<td>&nbsp;40-42 &nbsp;&nbsp;</td>
+			<td>&nbsp;42-44 &nbsp;&nbsp;</td>
+			<td>&nbsp; 46-50</td>
+		</tr>
+	</tbody>
+</table>
+",,,,,,,,,,,,,,,
+product_d22e537e-37bb-24c8-f0f3-b6f360d9d1c7,Product,Biquini Cortininha de Amarrar Marsala,<p>Tecido leve com alta elásticidade toque macio e super confortável. Não da bolinhas nem desbota. Modelagem ampla e personalizada se adapta fácilmente ao corpo.</p>,80a210_bdeb9de9900340c991e9b4894332d452~mv2.jpg;80a210_d54d4caf3701410f910a5c172dbddec8~mv2.jpg;80a210_deb0c68b3ddc4760b930e4a8ebde42a5~mv2.jpg;80a210_8e13b79f60d04338a20ef309d9a3d2d4~mv2.jpg;80a210_bd584eeace2744bfac6ce6ddb7292148~mv2.jpg,Biquinis;Mais Populares,BKN02,,149.99,,true,PERCENT,0.0,InStock,0.0,65.0,Cor,COLOR,"#DD1616:Vermelho",Biquíni Sutiã,DROP_DOWN,Extra Pequeno;Pequeno;Médio;Grande;Extra grande,Biquíni Calcinha,DROP_DOWN,Extra Pequeno;Pequeno;Médio;Grande;Extra Grande,,,,,,,,,,Informações do Produto,"<p>Com modelagem moderna, este Biquini Top Cortininha de Amarrar proporciona um visual sofisticado.<br>
+<br>
+Disponível do PP ao GG, este modelo possui caimento confortável e anatômico.<br>
+<br>
+Feito em Lycra®, material confortável que adiciona textura sofisticada ao beachwear e te deixa pronta para mergulhar nos dias ao sol com visual diferenciado.<br>
+<br>
+<strong>Referência:</strong> BKN02<br>
+<br>
+<strong>Linha:</strong> Club Verão<br>
+<br>
+<strong>Tecido:</strong> Lycra®<br>
+<br>
+<strong>Composição:</strong> TECIDO - 92% Poliamida; 8% Elastano<br>
+<br>
+FORRO - 75% Poliamida;15% Elastano</p>
+",Tabela de Medidas,"<table>
+	<tbody>
+		<tr>
+			<td>PP</td>
+			<td>P</td>
+			<td>M</td>
+			<td>G</td>
+			<td>GG</td>
+		</tr>
+		<tr>
+			<td>&nbsp;&nbsp; 34 &nbsp; &nbsp;&nbsp;</td>
+			<td>&nbsp;36-38 &nbsp;&nbsp;</td>
+			<td>&nbsp;40-42 &nbsp;&nbsp;</td>
+			<td>&nbsp;42-44 &nbsp;&nbsp;</td>
+			<td>&nbsp; 46-50&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+",,,,,,,,,,,,,,,
+product_e54fe4ad-dd37-a77f-bbfa-2554e4728f9c,Product,Biquini Cortininha de Amarrar Laranja Alanya,<p>Tecido leve com alta elásticidade toque macio e super confortável. Não da bolinhas nem desbota. Modelagem ampla e personalizada se adapta fácilmente ao corpo.</p>,80a210_ba7e8de472bb442eaf1cdb17cb7f57c4~mv2.jpg;80a210_8472d496596840b1863c4bf379ec72da~mv2.jpg;80a210_401cd05bdb5a446d9fc3f653061d9e27~mv2.jpg;80a210_e5b1b5abd414435b86ab1c4e11e0412f~mv2.jpg;80a210_c46d8a8fe8cf494794f352779fc6e88e~mv2.jpg,Biquinis;Mais Populares,BKN05,,119.99,,true,PERCENT,0.0,InStock,0.0,65.0,Cor,COLOR,"#dd7e16:Laranja",Biquíni Sutiã,DROP_DOWN,Extra Pequeno;Pequeno;Médio;Grande;Extra grande,Biquíni Calcinha,DROP_DOWN,Extra Pequeno;Pequeno;Médio;Grande;Extra Grande,,,,,,,,,,Informações do Produto,"<p>Com modelagem moderna, este Biquini Cortininha de Amarrar Laranja Alanya proporciona um visual sofisticado.<br>
+<br>
+Disponível do PP ao GG, este modelo possui caimento confortável e anatômico.<br>
+<br>
+Feito em Lycra®, material confortável que adiciona textura sofisticada ao beachwear e te deixa pronta para mergulhar nos dias ao sol com visual diferenciado.<br>
+<br>
+<strong>Referência:</strong> BKN04<br>
+<br>
+<strong>Linha:</strong> Club Verão<br>
+<br>
+<strong>Tecido:</strong> Lycra®<br>
+<br>
+<strong>Composição:</strong> TECIDO - 92% Poliamida; 8% Elastano<br>
+<br>
+FORRO - 75% Poliamida;15% Elastano</p>
+",Tabela de Medidas,"<table>
+	<tbody>
+		<tr>
+			<td>PP</td>
+			<td>P</td>
+			<td>M</td>
+			<td>G</td>
+			<td>GG</td>
+		</tr>
+		<tr>
+			<td>&nbsp;&nbsp; 34 &nbsp; &nbsp;&nbsp;</td>
+			<td>&nbsp;36-38 &nbsp;&nbsp;</td>
+			<td>&nbsp;40-42 &nbsp;&nbsp;</td>
+			<td>&nbsp;42-44 &nbsp;&nbsp;</td>
+			<td>&nbsp; 46-50</td>
+		</tr>
+	</tbody>
+</table>
+",,,,,,,,,,,,,,,
+product_4841d707-1962-770b-58ad-01afcd7d96b1,Product,Maiô Detalhe Costas Happy Colors,<p>Tecido leve com alta elásticidade toque macio e super confortável. Não da bolinhas nem desbota. Modelagem ampla e personalizada se adapta fácilmente ao corpo.</p>,80a210_08df7ad6fe4c4c1f8e42ee2b879987c0~mv2.jpg;80a210_5bbd084ddc514c83966cb1af03cb708a~mv2.jpg,Mais Populares;Maiôs,MY02,,149.99,,true,PERCENT,0.0,InStock,0.0,65.0,Cor,COLOR,"#3358a6:Azul",Tamanho Maiô,DROP_DOWN,Extra Pequeno;Pequeno;Médio;Grande;Extra grande,,,,,,,,,,,,,Informações do Produto,"<p>Com modelagem moderna, este Maiô Detalhe Costas Happy Colors proporciona um visual sofisticado.<br>
+<br>
+Disponível do PP ao GG, este modelo possui caimento confortável e anatômico.<br>
+<br>
+Feito em Lycra®, material confortável que adiciona textura sofisticada ao beachwear e te deixa pronta para mergulhar nos dias ao sol com visual diferenciado.<br>
+<br>
+<strong>Referência:</strong> MY02<br>
+<br>
+<strong>Linha:</strong> Club Verão<br>
+<br>
+<strong>Tecido:</strong> Lycra®<br>
+<br>
+<strong>Composição:</strong> TECIDO - 92% Poliamida; 8% Elastano<br>
+<br>
+FORRO - 75% Poliamida;15% Elastano</p>
+",Tabela de Medidas,"<table>
+	<tbody>
+		<tr>
+			<td>PP</td>
+			<td>P</td>
+			<td>M</td>
+			<td>G</td>
+			<td>GG</td>
+		</tr>
+		<tr>
+			<td>&nbsp;&nbsp; 34 &nbsp; &nbsp;&nbsp;</td>
+			<td>&nbsp;36-38 &nbsp;&nbsp;</td>
+			<td>&nbsp;40-42 &nbsp;&nbsp;</td>
+			<td>&nbsp;42-44 &nbsp;&nbsp;</td>
+			<td>&nbsp; 46-50</td>
+		</tr>
+	</tbody>
+</table>
+",,,,,,,,,,,,,,,
+product_10ff041b-22af-eabb-58fd-6412ea571ae1,Product,Maiô Detalhe Costas Green Pink,<p>Tecido leve com alta elásticidade toque macio e super confortável. Não da bolinhas nem desbota. Modelagem ampla e personalizada se adapta fácilmente ao corpo.</p>,80a210_2b3af99304604d9d9708d636fae7bdb4~mv2.jpg;80a210_365a27e691a14f048ff7a66f055cb161~mv2.jpg;80a210_387447a7212e4115946f6baa58f643f5~mv2.jpg,Mais Populares;Maiôs,MY03,,149.99,,true,PERCENT,0.0,InStock,0.0,65.0,Cor,COLOR,"#F5EEEE:Colorido",Tamanho Maiô,DROP_DOWN,Extra Pequeno;Pequeno;Médio;Grande;Extra grande,,,,,,,,,,,,,Informações do Produto,"<p>Com modelagem moderna, este Maiô Detalhe Costas Green Pink proporciona um visual sofisticado.<br>
+<br>
+Disponível do PP ao GG, este modelo possui caimento confortável e anatômico.<br>
+<br>
+Feito em Lycra®, material confortável que adiciona textura sofisticada ao beachwear e te deixa pronta para mergulhar nos dias ao sol com visual diferenciado.<br>
+<br>
+<strong>Referência:</strong> MY03<br>
+<br>
+<strong>Linha:</strong> Club Verão<br>
+<br>
+<strong>Tecido:</strong> Lycra®<br>
+<br>
+<strong>Composição:</strong> TECIDO - 92% Poliamida; 8% Elastano<br>
+<br>
+FORRO - 75% Poliamida;15% Elastano</p>
+",Tabela de Medidas,"<table>
+	<tbody>
+		<tr>
+			<td>PP</td>
+			<td>P</td>
+			<td>M</td>
+			<td>G</td>
+			<td>GG</td>
+		</tr>
+		<tr>
+			<td>&nbsp;&nbsp; 34 &nbsp; &nbsp;&nbsp;</td>
+			<td>&nbsp;36-38 &nbsp;&nbsp;</td>
+			<td>&nbsp;40-42 &nbsp;&nbsp;</td>
+			<td>&nbsp;42-44 &nbsp;&nbsp;</td>
+			<td>&nbsp; 46-50</td>
+		</tr>
+	</tbody>
+</table>
+",,,,,,,,,,,,,,,
+product_7cc33821-3f93-a32a-f27e-da7bfa919f7c,Product,Biquíni com Cadarço Le Paradis,"<p>Todas as peças, tanto os tops quanto as calcinhas são forrados por inteiro para garantir maior segurança. Além disso todos os tecidos passaram por rigorosos testes de qualidade.</p>",80a210_16814605742944378978946a2eff7058~mv2.jpg;80a210_2aa41292691543dbb221d5cde3a5b2dc~mv2.jpg,Biquinis;Mais Populares,BKN01,,149.99,,true,AMOUNT,30.0,InStock,0.0,59.99,Cor,COLOR,"#E78D8D:Vermelho com Marinho",Biquíni Sutiã,DROP_DOWN,Extra Pequeno;Pequeno;Médio;Grande;Extra grande,Biquíni Calcinha,DROP_DOWN,Extra Pequeno;Pequeno;Médio;Grande;Extra Grande,,,,,,,,,,Informações do Produto,"<p>Com modelagem moderna, este Biquíni com Cadarço Le Paradis proporciona um visual sofisticado.<br>
+<br>
+Disponível do PP ao GG, este modelo possui caimento confortável e anatômico.<br>
+<br>
+Feito em Lycra®, material confortável que adiciona textura sofisticada ao beachwear e te deixa pronta para mergulhar nos dias ao sol com visual diferenciado.<br>
+<br>
+<strong>Referência:</strong> BKN01<br>
+<br>
+<strong>Linha:</strong> Club Verão<br>
+<br>
+<strong>Tecido:</strong> Lycra®<br>
+<br>
+<strong>Composição:</strong> TECIDO - 92% Poliamida; 8% Elastano<br>
+<br>
+FORRO - 75% Poliamida;15% Elastano</p>
+",Tabela de Medidas,"<table>
+	<tbody>
+		<tr>
+			<td>PP</td>
+			<td>P</td>
+			<td>M</td>
+			<td>G</td>
+			<td>GG</td>
+		</tr>
+		<tr>
+			<td>&nbsp;&nbsp; 34 &nbsp; &nbsp;&nbsp;</td>
+			<td>&nbsp;36-38 &nbsp;&nbsp;</td>
+			<td>&nbsp;40-42 &nbsp;&nbsp;</td>
+			<td>&nbsp;42-44 &nbsp;&nbsp;</td>
+			<td>&nbsp; 46-50</td>
+		</tr>
+	</tbody>
+</table>
+",,,,,,,,,,,,,,,
+product_cf81d575-1e73-a22d-06ba-f2de99932a82,Product,Biquíni Amarrações Asa Delta Grafite Le Paradis,"<p>Os biquínis da coleção Club Verão foram pensados para tornar seus dias de verão mais alegres e confortáveis. Todas as peças, tanto os tops quanto as calcinhas são forrados por inteiro para garantir maior segurança. Além disso todos os tecidos passaram por rigorosos testes de qualidade.</p>",80a210_7a9495a1ebba4baabceb8cffae871425~mv2.jpg;80a210_4c02e65cc85f4faa8735b358de6a7fa3~mv2.jpg;80a210_ed37068b3cf34e9c9624326f176e9dbe~mv2.jpg,Biquinis;Mais Populares,BKN06,,149.99,,true,PERCENT,0.0,InStock,0.0,60.0,Cor,COLOR,"#757575:Grafite",Biquíni Sutiã,DROP_DOWN,Extra Pequeno;Pequeno;Médio;Grande;Extra grande,Biquíni Calcinha,DROP_DOWN,Extra Pequeno;Pequeno;Médio;Grande;Extra Grande,,,,,,,,,,Informações do Produto,"<p>Com modelagem moderna, este Biquíni Amarrações Asa Delta Grafite Le Paradis proporciona um visual sofisticado.<br>
+<br>
+Disponível do PP ao GG, este modelo possui caimento confortável e anatômico.<br>
+<br>
+Feito em Lycra®, material confortável que adiciona textura sofisticada ao beachwear e te deixa pronta para mergulhar nos dias ao sol com visual diferenciado.<br>
+<br>
+<strong>Referência:</strong> BKN06<br>
+<br>
+<strong>Linha:</strong> Club Verão<br>
+<br>
+<strong>Tecido:</strong> Lycra®<br>
+<br>
+<strong>Composição:</strong> TECIDO - 92% Poliamida; 8% Elastano<br>
+<br>
+FORRO - 75% Poliamida;15% Elastano</p>
+",Tabela de Medidas,"<table>
+	<tbody>
+		<tr>
+			<td>PP</td>
+			<td>P</td>
+			<td>M</td>
+			<td>G</td>
+			<td>GG</td>
+		</tr>
+		<tr>
+			<td>&nbsp;&nbsp; 34 &nbsp; &nbsp;&nbsp;</td>
+			<td>&nbsp;36-38 &nbsp;&nbsp;</td>
+			<td>&nbsp;40-42 &nbsp;&nbsp;</td>
+			<td>&nbsp;42-44 &nbsp;&nbsp;</td>
+			<td>&nbsp; 46-50</td>
+		</tr>
+	</tbody>
+</table>
+",,,,,,,,,,,,,,,
+product_3eb0f0ad-c2c8-bc7a-4d3e-71c59addbf88,Product,Biquíni Cintura Alta Vermelho Le Paradis,"<p>Os biquínis da coleção Club Verão foram pensados para tornar seus dias de verão mais alegres e confortáveis. Todas as peças, tanto os tops quanto as calcinhas são forrados por inteiro para garantir maior segurança. Além disso todos os tecidos passaram por rigorosos testes de qualidade.</p>",80a210_fa49dfe90b1347a589951af8313772b9~mv2.jpg;80a210_e3f8ffd9c5de4ce683613eb870deb19e~mv2.jpg;80a210_5dbbbb4d124f41e980e043f61bfb1e63~mv2.jpg,Biquinis;Mais Populares,BKN07,,149.99,,true,PERCENT,0.0,InStock,0.0,60.0,Cor,COLOR,"#dd1616:Vermelho",Biquíni Sutiã,DROP_DOWN,Extra Pequeno;Pequeno;Médio;Grande;Extra grande,Biquíni Calcinha,DROP_DOWN,Extra Pequeno;Pequeno;Médio;Grande;Extra Grande,,,,,,,,,,Informações do Produto,"<p>Com modelagem moderna, este Biquíni Cintura Alta Vermelho Le Paradis proporciona um visual sofisticado.<br>
+<br>
+Disponível do PP ao GG, este modelo possui caimento confortável e anatômico.<br>
+<br>
+Feito em Lycra®, material confortável que adiciona textura sofisticada ao beachwear e te deixa pronta para mergulhar nos dias ao sol com visual diferenciado.<br>
+<br>
+<strong>Referência:</strong> BKN07<br>
+<br>
+<strong>Linha:</strong> Club Verão<br>
+<br>
+<strong>Tecido:</strong> Lycra®<br>
+<br>
+<strong>Composição:</strong> TECIDO - 92% Poliamida; 8% Elastano<br>
+<br>
+FORRO - 75% Poliamida;15% Elastano</p>
+",Tabela de Medidas,"<table>
+	<tbody>
+		<tr>
+			<td>PP</td>
+			<td>P</td>
+			<td>M</td>
+			<td>G</td>
+			<td>GG</td>
+		</tr>
+		<tr>
+			<td>&nbsp;&nbsp; 34 &nbsp; &nbsp;&nbsp;</td>
+			<td>&nbsp;36-38 &nbsp;&nbsp;</td>
+			<td>&nbsp;40-42 &nbsp;&nbsp;</td>
+			<td>&nbsp;42-44 &nbsp;&nbsp;</td>
+			<td>&nbsp; 46-50</td>
+		</tr>
+	</tbody>
+</table>
+",,,,,,,,,,,,,,,
+product_f248b06e-ae77-313d-1288-ef8ce1cae141,Product,Biquíni Sustentação Cintura Alta Vermelho Le Paradis,"<p>Os biquínis da coleção Club Verão foram pensados para tornar seus dias de verão mais alegres e confortáveis. Todas as peças, tanto os tops quanto as calcinhas são forrados por inteiro para garantir maior segurança. Além disso todos os tecidos passaram por rigorosos testes de qualidade.</p>",80a210_44ba82410e0c4dee92c3629c257f5350~mv2.jpg;80a210_e2800c8bfb2d409c801aa3da8974a088~mv2.jpg,Biquinis,BKN08,,149.99,,true,AMOUNT,30.0,InStock,0.0,60.0,Cor,COLOR,"#dd1616:Vermelho",Biquíni Sutiã,DROP_DOWN,Extra Pequeno;Pequeno;Médio;Grande;Extra grande,Biquíni Calcinha,DROP_DOWN,Extra Pequeno;Pequeno;Médio;Grande;Extra Grande,,,,,,,,,,Informações do Produto,"<p>Com modelagem moderna, este Biquíni Sustentação Cintura Alta Vermelho Le Paradis proporciona um visual sofisticado.<br>
+<br>
+Disponível do PP ao GG, este modelo possui caimento confortável e anatômico.<br>
+<br>
+Feito em Lycra®, material confortável que adiciona textura sofisticada ao beachwear e te deixa pronta para mergulhar nos dias ao sol com visual diferenciado.<br>
+<br>
+<strong>Referência:</strong> BKN08<br>
+<br>
+<strong>Linha:</strong> Club Verão<br>
+<br>
+<strong>Tecido:</strong> Lycra®<br>
+<br>
+<strong>Composição:</strong> TECIDO - 92% Poliamida; 8% Elastano<br>
+<br>
+FORRO - 75% Poliamida;15% Elastano</p>
+",Tabela de Medidas,"<table>
+	<tbody>
+		<tr>
+			<td>PP</td>
+			<td>P</td>
+			<td>M</td>
+			<td>G</td>
+			<td>GG</td>
+		</tr>
+		<tr>
+			<td>&nbsp;&nbsp; 34 &nbsp; &nbsp;&nbsp;</td>
+			<td>&nbsp;36-38 &nbsp;&nbsp;</td>
+			<td>&nbsp;40-42 &nbsp;&nbsp;</td>
+			<td>&nbsp;42-44 &nbsp;&nbsp;</td>
+			<td>&nbsp; 46-50</td>
+		</tr>
+	</tbody>
+</table>
+",,,,,,,,,,,,,,,
